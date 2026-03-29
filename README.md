@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&width=435&lines=Hi+there!+I'm+Giai!++%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 
-*I’m learning and working Cloud Data Engineer, specialize in Big Data Technology on Google Cloud!*
+*I’m learning and working Cloud Data/AI Engineer on Google Cloud!*
 
 ## Connect Me !
 
