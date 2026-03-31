@@ -33,7 +33,7 @@
   </tr>
 </table>
 
-*Professional Certifications: [View](https://www.credly.com/users/giai-phan/badges#credly)*
+*Professional Certifications: [Readme](https://www.credly.com/users/giai-phan/badges#credly)*
 </div>
 
 ### 💻 Languages, Frameworks, Tools & Technologies
